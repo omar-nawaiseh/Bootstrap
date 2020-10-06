@@ -1,0 +1,31 @@
+body{
+	background-color: #373737;
+}
+footer {
+	color: rgb(14, 190, 243);
+	box-shadow: 0px 10px 50px rgb(9, 75, 255);
+}
+.bg-light {
+	background-color: #ccc !important;
+}
+.col-sm h1 {
+	background-color: #303030;
+	margin-top: 25px;
+	text-align: center;
+}
+
+.col-sm {
+
+	color: #fff;
+}
+
+.col-sm p {
+	text-align: justify;
+}
+
+.btn-rounded {
+	color: antiquewhite;
+}
+img {
+	box-shadow: 0px 10px 50px rgb(9, 75, 255);
+}
