@@ -1,13 +1,15 @@
 body{
 	background-color: #373737;
 }
-footer {
-	color: rgb(14, 190, 243);
-	box-shadow: 0px 10px 50px rgb(9, 75, 255);
-}
+
 .bg-light {
 	background-color: #ccc !important;
 }
+
+img {
+	box-shadow: 0px 10px 50px rgb(17, 112, 236);
+}
+
 .col-sm h1 {
 	background-color: #303030;
 	margin-top: 25px;
@@ -23,9 +25,10 @@ footer {
 	text-align: justify;
 }
 
-.btn-rounded {
-	color: antiquewhite;
+footer {
+	color: #fff;
+	box-shadow: 0px 10px 50px rgb(17, 112, 236);
 }
-img {
-	box-shadow: 0px 10px 50px rgb(9, 75, 255);
+.btn-rounded {
+	color: rgb(221, 73, 46);
 }
